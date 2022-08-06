@@ -18,7 +18,7 @@ This is my project of future ready talent
  4)PAGES
  5)CONTACT US
  <br>
- HOME division tells us about the tours that we want to visit. 
+ HOME division tells us about the tours that we want to visit.
  <br>
 
 
@@ -39,7 +39,7 @@ This is my project of future ready talent
   
   
   <br>
-  ABOUT division tells us about the instution popular courses and helps us to understand th
+  ABOUT division describes about that we have to collect the memories not the things.
   <br>
   
   
@@ -60,7 +60,7 @@ This is my project of future ready talent
   
   
   <br>
-  PACKAGES division shows us the courses that will be taught in the instituion and also tells us about the acheivements of the instituion
+  PACKAGES division shows us the favourites places in our world.
   <br>
 
 
@@ -79,7 +79,7 @@ This is my project of future ready talent
   
   
   <br>
-  PAGES helps us to contact with the instituion.
+  PAGES division helps ur to know the various facts about the travelling.
   <br>
 
   
@@ -96,7 +96,7 @@ This is my project of future ready talent
   
   
   <br>
-  CONTACT US
+  CONTACT US  division provides the facility to interact with the us and clarify your queries.
   <br>
 
   
