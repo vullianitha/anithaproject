@@ -112,5 +112,5 @@ this is my FRT project
    
    
   <br>
-  The link to my Future Ready Talent project is:
+  The link to my Future Ready Talent project is:https://blue-sea-0f8c91310.1.azurestaticapps.net/
 
