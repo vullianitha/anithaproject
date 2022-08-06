@@ -1,7 +1,7 @@
-# anithaproject
+# Gotrip
 this is my FRT project
 <> Edit file © Preview
-# education
+# travel website
 This is my project of future ready talent
 <h1>BEST YOUR EDUCATION</h1>
   Languages used in this project are:
