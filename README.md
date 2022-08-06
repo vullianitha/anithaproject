@@ -1,9 +1,7 @@
 # Gotrip
 this is my FRT project
-<> Edit file © Preview
 # travel website
-This is my project of future ready talent
-<h1>BEST YOUR EDUCATION</h1>
+<h1>MAKE YOUR TRIP FUN</h1>
   Languages used in this project are:
   JAVA SCRIPT
   HTML
@@ -115,3 +113,4 @@ This is my project of future ready talent
    
   <br>
   The link to my Future Ready Talent project is:
+
